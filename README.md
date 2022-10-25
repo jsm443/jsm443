@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsm443
+- 👋 Hi, I’m Jack Merrill (@jsm443)
 - 👀 I’m interested in software engineering
 - 📫 Feel free to reach out to me anytime jsm443@cornell.edu
 
